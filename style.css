@@ -4,7 +4,10 @@ span{
     padding-top: 15px;
 }
 .header{
-    font-size: 40px;
+    font-size: 45px;
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+    
 }
 .flexible-container{
     display: flex;
@@ -22,7 +25,7 @@ span{
 
 }
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .box{
 background-color: salmon;
