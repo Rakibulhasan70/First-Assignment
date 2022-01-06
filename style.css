@@ -27,7 +27,8 @@ span{
 body{
     font-family: 'Raleway', sans-serif;
     margin-bottom: 50px;
-     
+    overflow-X: hidden;
+
 }
 .box{
 background-color: salmon;
@@ -80,13 +81,13 @@ padding-top: 10px;
 }
 .hasan{
     width: 60%;
-   width: 800px;
+    width: 800px
     
 }
 .hasan img{
     width: 60%;
     padding-left: 85px;
-    
+    border-radius: 10px;
 }
 .rakib{
     font-size: 40px;
@@ -113,8 +114,8 @@ padding-top: 10px;
 .footer{
     text-align: center;
     background-color: black;
-    height: 170px;
-    padding-top: 40px;
+    height: 120px;
+    padding-top: 15px;
 }
 #last{
     color: white;
@@ -126,4 +127,16 @@ padding-top: 10px;
 #month{
     color: white;
 }
-   
+.title{
+    width:50%px;
+    display: flex;
+}
+.title img{
+    width: 80%;
+}
+.hasan-pro{
+    width: 60%;
+    width: 800px;
+    padding: 150px;
+    background-image: url(images/shapes/shape-6.png);
+}
